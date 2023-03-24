@@ -1,0 +1,15 @@
+import { Typography } from '@mui/material'
+import React,{ useState,useState } from 'react'
+
+const stateeffect = () =>{
+    var[value,setvalue]= useState();
+    useeffect
+}
+return (
+    <div>
+
+    </div>
+    )
+  }
+  
+  export default stateeffect
